@@ -10,9 +10,10 @@
     }
 
     section#login > div#imagem {
+        background-position: center center;
         float: left;
         width: 30%;
-        height: 100%;
+        height: 100%
     }
 
     section#login > div#formulario {
